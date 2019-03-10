@@ -1,0 +1,13 @@
+pages:
+
+- title: Index
+  url: index.html
+
+- title: Voice coding
+  url: voicecoding.html
+
+- title: Eye tracking
+  url: eyetracking.html
+
+- title: Mathematics/LaTeX
+  url: math.html

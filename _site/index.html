@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Home</title>
+  <meta name="description" content="A free add-on for Dragon speech recognition software allowing quick and easy dictation of mathematics and LaTeX. Requires Natlink, python 2.7 and dragonfly.
+">
+
+  <!-- evil icon -->
+
+  <link rel="stylesheet" href="/assets/evil-icons.min.css">
+  <script src="/assets/evil-icons.min.js"></script>
+
+  <!-- todo: include this into main.css -->
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="alternate" type="application/rss+xml" title="Dictation index" href="http://localhost:4000/feed.xml">
+</head>
+
+  <body>
+    <div class="page-content">
+      <div class="container">
+        <div class="three columns">
+          <header class="site-header">
+
+  <h2 class="logo"><a href="/">Dictation index</a></h2>
+
+  <div class="nav">
+
+    <label for="menu-toggle" class="menu-icon">
+        <!--div data-icon="ei-navicon"></div-->
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+    </label>
+    <input type="checkbox" id="menu-toggle">
+
+    <div class="site-nav">
+      <nav>
+        <ul class="page-link">
+          
+            <li><a href="index.html">Index</a></li>
+          
+            <li><a href="voicecoding.html">Voice coding</a></li>
+          
+            <li><a href="eyetracking.html">Eye tracking</a></li>
+          
+            <li><a href="math.html">Mathematics/LaTeX</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+
+  </div>
+</header>
+
+        </div>
+
+        <div class="nine columns" style="z-index:100;">
+          <div class="wrapper">
+            <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Home</h1>
+  </header>
+
+  <div class="article-content">
+    <h1 id="contents">Contents</h1>
+
+<ol>
+  <li><a href="#about">About This Page</a></li>
+  <li><a href="#forums-community-publicity">Forums, Community, Publicity</a></li>
+  <li><a href="#sources-and-modules">Sources and Modules</a></li>
+  <li><a href="#dragonfly-and-natlink-documentation">Documentation</a></li>
+  <li><a href="#other-dragonfly-repositories">Repositories</a></li>
+  <li><a href="#other-related-documents">Other Documents</a></li>
+  <li><a href="#open-source-and-commercial-dragon-add-ons">DNS Add-ons, Open-source and Commercial</a></li>
+  <li><a href="#video">Videos</a></li>
+  <li><a href="#installation-instructions">Installation Instructions</a> (Dragonfly and Caster)</li>
+  <li><a href="https://github.com/synkarius/caster/wiki">Caster Wiki</a></li>
+  <li><a href="#legacy">Legacy Links</a></li>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
+  <li><a href="#other">Miscellaneous</a></li>
+</ol>
+
+<h1 id="about">About</h1>
+
+<p>This page is intended to serve as an index of information related to Dragon NaturallySpeaking, Dragonfly, voice programming, extending Dragon, and my own project, <a href="https://github.com/synkarius/caster">Caster</a>. Below, you will find a collection of links related to those subjects. Please make a pull request for corrections or adding additional resources.</p>
+
+<p>If you’re just getting started with voice programming, I suggest reading <a href="http://explosionduck.com/wp/introduction-to-voice-programming-part-two-open-source-speech-tools/">this article</a> and <a href="http://vocola.net/programming-by-voice-FAQ.html">this FAQ</a> to get the lay of the land.</p>
+
+<h1 id="forums-community-publicity">Forums, Community, Publicity</h1>
+
+<p>​ <strong>Community Groups</strong></p>
+
+<ul>
+  <li>
+    <p><a href="https://gitter.im/synkarius/caster?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge">Caster Gitter Channel</a> - Text chat room.</p>
+  </li>
+  <li>
+    <p><a href="https://discord.gg/9eAAsCJ">Discord Channel</a> - Castor/Dragonfly text or voice chat room.</p>
+  </li>
+  <li>
+    <p><a href="http://stackoverflow.com/questions/tagged/python-dragonfly">Stackoverflow for Dragonfly</a></p>
+  </li>
+  <li>
+    <p><a href="https://groups.google.com/forum/#!forum/dragonflyspeech">Google Groups For Dragonfly</a> - Forum</p>
+  </li>
+  <li>
+    <p><a href="http://www.knowbrainer.com/forums/forum/categories.cfm?catid=25">KnowBrainer - Third-Party Command Utilities</a> - Forum</p>
+  </li>
+  <li>
+    <p><a href="https://groups.google.com/forum/#!forum/comp.lang.beta">Google groups for Comp.lang.beta</a> - Forum</p>
+
+    <p><strong>Blogs</strong></p>
+  </li>
+  <li>
+    <p><a href="http://handsfreecoding.org/">HandsFreecoding</a> - Techniques and software to code and control computers by voice</p>
+  </li>
+  <li>
+    <p><a href="http://explosionduck.com/wp/introduction-to-voice-programming-part-two-open-source-speech-tools/">Explosionduck - Open Source Speech Tools</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself/">Extrahop - Programming by Voice: Staying Productive without Harming Yourself</a></p>
+  </li>
+  <li>
+    <p><a href="http://voicecontrol.blogspot.nl/">VoiceControl - Dragonfly</a></p>
+
+    <p><strong>Miscellaneous</strong></p>
+  </li>
+  <li>
+    <p><a href="https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/">Arstechnica - Coding without a keystroke: The hands-free creation of a full video game</a></p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/bambuu/state-of-voice-coding-2017-3d2ff41c5015">State of Voice Coding — 2017</a></p>
+  </li>
+  <li>
+    <p><a href="http://vocola.net/programming-by-voice-FAQ.html">Vocola - Programming by Voice FAQ</a></p>
+  </li>
+  <li>
+    <p><a href="https://web.archive.org/web/20160617205433/http://alpacatechnologies.com/tiki-download_file.php?fileId=21">VoiceCode Academic Paper PDF</a></p>
+  </li>
+</ul>
+
+<h1 id="sources-and-modules">Sources and Modules</h1>
+
+<ul>
+  <li><a href="https://github.com/Danesprite/dragonfly">Github - Dragonfly</a> - (Recommended) - A Community fork of t4ngo’s Dragonfly repository.</li>
+  <li><a href="https://github.com/t4ngo/dragonfly">Github - t4ngo/dragonfly</a> - Stale</li>
+</ul>
+
+<h1 id="dragonfly-and-natlink-documentation">Dragonfly and Natlink Documentation</h1>
+
+<p><strong>Dragonfly</strong></p>
+
+<ul>
+  <li>
+    <p><a href="http://dragonfly2.readthedocs.org/en/latest/">Dragonfly - readthedocs</a> - (Recommended Documentation)</p>
+  </li>
+  <li>
+    <p><a href="http://dragonfly.readthedocs.org/en/latest/">t4ngo’s Dragonfly - readthedocs</a> - Stale</p>
+
+    <p><strong>Natlink</strong></p>
+  </li>
+  <li>
+    <p><a href="http://qh.antenna.nl/unimacro/index.html">Qh.antenna.nl - Natlink, Unimacro and Vocola </a> - (Recommended) Documentation and install instructions</p>
+
+    <p><strong>As Needed</strong></p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=_WnMGOfHYuM">Register Natlink pyd Manually</a></li>
+      <li><a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwi874yllILeAhWKxYMKHYgrDF8QFjAAegQICRAB&amp;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fdownload%2Fdetails.aspx%3Fid%3D26999&amp;usg=AOvVaw0cUChp6Ql2-eV0zUE9XCaC">Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package MFC Security Update</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://web.archive.org/web/20160711183956/https://qh.antenna.nl/unimacro/implementation_and_acceptance_of_natlink.pdf">Qh.antenna.nl - Implementation_and_Acceptance_of Natlink.pdf</a></p>
+  </li>
+</ul>
+
+<h1 id="other-dragonfly-repositories">Other Dragonfly Repositories</h1>
+
+<p><strong>Updated</strong> - 10/10/2018 Link - Last commit on (Month - Day - Year)</p>
+
+<ul>
+  <li><a href="https://github.com/dictation-toolbox">Github - dictation-toolbox</a> - Aenea - A system to allow speech recognition via Dragonfly on one computer to send events to another.</li>
+  <li><a href="https://github.com/russell/damselfly">Github - russell/damselfly</a> - Damselfly - Damselfly: Use dragon naturally speaking to control linux apps.</li>
+  <li><a href="https://github.com/jgarvin/mandimus">Github - jgarvin/mandimus</a> - (Sep 7, 2018)</li>
+  <li><a href="https://github.com/j127/coding-by-voice">Github - j127/coding-by-voice</a> (Jun 19, 2015)</li>
+  <li><a href="https://github.com/codebold/hiccup">Github - codebold/hiccup</a> - (Jan 10, 2015)</li>
+  <li><a href="https://github.com/ccowan/code-by-voice">Github - ccowan/code-by-voice</a> - (Nov 18, 2013)</li>
+  <li><a href="https://github.com/simianhacker/code-by-voice">Github - simianhacker/code-by-voice</a> - (Nov 18, 2013)</li>
+  <li><a href="https://github.com/chajadan/DragonflyRules">Github - chajadan/DragonflyRules</a> - (Jul 14, 2015)</li>
+  <li><a href="https://github.com/davitenio/dragonfly-macros">Github - davitenio/dragonfly-macros</a> - (Apr 15, 2014)</li>
+  <li><a href="https://github.com/Taraxicum/dragonfly-rules">Github - Taraxicum/dragonfly-rules</a> - (Dec 7, 2015)</li>
+  <li><a href="https://github.com/wolfmanstout/dragonfly-commands">Github - wolfmanstout/dragonfly-commands</a> - (Sep 30, 2018)</li>
+  <li><a href="https://github.com/poppe1219/dragonfly-scripts">Github - poppe1219/dragonfly-scripts</a> - (Oct 5, 2015)</li>
+  <li><a href="https://github.com/barrysims/dragonfly">Github - barrysims/dragonfly</a> - (Mar 26, 2014)</li>
+  <li><a href="https://github.com/ccrusius/dragonfly-modules">Github - ccrusius/dragonfly-modules</a> - ( Jul 1, 2014)</li>
+  <li><a href="https://github.com/tjanpool/myDragonflyScripts">Github - tjanpool/myDragonflyScripts</a> - (Mar 6, 2015)</li>
+  <li><a href="https://github.com/danielgm/JarvisGrammars">Github - danielgm/JarvisGrammars</a> - (Dec 8, 2016)</li>
+  <li><a href="https://github.com/jiqimaogou/NatLink-MacroSystem">Github - jiqimaogou/NatLink-MacroSystem</a> - (Sep 10, 2013)</li>
+  <li><a href="https://github.com/whIzz2000/natlink-py-scripts">Github - whIzz2000/natlink-py-scripts</a> - (Jun 27, 2013)</li>
+  <li><a href="https://github.com/whIzz2000/natlink-py-scripts">Github - whIzz2000/natlink-py-scripts</a> - (Dec 8, 2016)</li>
+  <li><a href="https://github.com/danzel/NatlinkVisualStudioMacros">Github - danzel/NatlinkVisualStudioMacros</a> - (Sep 10, 2013)</li>
+  <li><a href="https://github.com/tgrosinger/aenea-grammars">Github - tgrosinger/aenea-grammars</a> - (Oct 3, 2015)</li>
+</ul>
+
+<h1 id="other-related-documents">Other Related Documents</h1>
+
+<p><strong>Updated</strong> -10/10/2018</p>
+
+<ul>
+  <li><a href="http://www.knowbrainer.com/index.cfm/wiki/knowbrainer-dragon-and-computer-tweaks/">KnowBrainer Dragon and Computer Tweaks</a></li>
+  <li><a href="www.knowbrainer.com/index.cfm/wiki/dragon-15-review/">KnowBrainer Dragon 15 Review PDF</a></li>
+  <li><a href="https://njr.sabi.net/2014/04/13/creating-a-dictation-buffer/">Njr.sabi.net - Creating a dictation buffer</a></li>
+  <li><a href="http://shorttalk-emacs.sourceforge.net/ShortTalk/quickref.pdf">ShortTalk Emacs Quickref.pdf</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1pk2gwTFbMebgYSsrxIFsZ-QvpEPWCybF8ypdeBvfBsg/pubhtml">Alexander15w’s Command Language Comparison Spreadsheet</a></li>
+</ul>
+
+<h1 id="open-source-and-commercial-dragon-addons">Open Source and Commercial Dragon Addons</h1>
+
+<p><strong>Updated</strong> - 10/13/2018</p>
+
+<p>​ <strong>Open Source</strong></p>
+
+<ul>
+  <li>
+    <p><a href="http://vocola.net">Vocola</a></p>
+  </li>
+  <li>
+    <p><a href="http://sourceforge.net/projects/voicecode">Voicecode</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/nriley/DragonControl">DragonControl</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/mdbridge/click-by-voice">Click by Voice</a> - Extension for Chrome</p>
+
+    <p><strong>Commercial</strong></p>
+  </li>
+  <li>
+    <p><a href="http://voicecode.io">Voicecode.io</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.voicecomputer.com">VoiceComputer for Dragon</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.pcbyvoice.com/shop/pcbyvoice-speechstart-plus/">PCByVoice SpeechStart+ </a></p>
+  </li>
+  <li>
+    <p><a href="http://www.knowbrainer.com">KnowBrainer Command Utility</a></p>
+  </li>
+  <li>
+    <p><a href="http://redstartsystems.com">RedStartSystems</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.speechutilities.com/SayWhatPro/index.htm">SayWhatPro</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.speechproductivity.eu/">Speech Productivity</a></p>
+  </li>
+</ul>
+
+<h1 id="video">Video</h1>
+
+<p><strong>Updated</strong> - 10/13/2018</p>
+
+<ul>
+  <li><a href="http://www.youtube.com/watch?v=8SkdfdXWYaI">Tavis Rudd - Pycon Talk</a> - Using Python to Code by Voice - (Mar 20, 2013)</li>
+  <li><a href="https://www.youtube.com/watch?v=qXvbQQV1ydo">Tavis Rudd - 5 programming languages in 5 mins, by Voice (Polyglot Conf)</a> - (Apr 15, 2013)
+    <ul>
+      <li><a href="https://gist.github.com/tavisrudd/5226505">Some links related to Tavis Rudd voice coding talk at #pycon</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=g3c5H7sAbBQ">Explanation of continuous command recognition by Twizzybiz</a> - (Apr 9, 2009)</li>
+  <li><a href="http://www.youtube.com/watch?v=LVAO8DXUnRI">A voice programmer</a> - Speech Recognition used for Programming and Software development Demonstration. - (Dec 31, 2011)</li>
+  <li><a href="https://www.youtube.com/watch?v=ZKIPVtmL5RY">Voice Coding Demonstration</a> - (Jan 15, 2017)</li>
+  <li><a href="https://www.youtube.com/watch?v=hGPNs5C1Lp0">Demo of Voice Coding + Art</a> - (Apr 16, 2018)</li>
+  <li><a href="https://www.youtube.com/watch?v=-UVCN8L4J0Y">Controlling computer and programming by voice (Voice Coding)</a> - (May 13, 2018)</li>
+  <li><a href="https://www.youtube.com/watch?v=O9mkQsXA2Ok">Multiple chained speech recognition commands in dragonfly – low latency for fluid use</a> - (Mar 11, 2015)</li>
+  <li><a href="https://www.youtube.com/watch?v=6qrjuTCX6Rw">Short demo showing how to install the “Click by Voice” extension for Chrome</a> - (Jul 21, 2017)</li>
+</ul>
+
+<h1 id="installation-instructions">Installation Instructions</h1>
+
+<p><strong>Updated</strong> - 10/13/2018</p>
+
+<ul>
+  <li><a href="https://github.com/synkarius/caster/issues/217#issuecomment-377290954">Instructions for Dragonfly and Castor</a> (Recommended)</li>
+  <li><a href="http://explosionduck.com/caster/install">Install Vid (Caster)</a> - Slightly outdated</li>
+  <li><a href="http://explosionduck.com/caster/install/dragonfly.html">Install Vid (Dragonfly)</a> - Slightly outdated</li>
+  <li><a href="https://www.youtube.com/watch?v=yVEbAcxEPWY">Installing Natlink Vocola and Dragonfly</a> - t4ngo Dragonfly</li>
+</ul>
+
+<h1 id="legacy">Legacy</h1>
+
+<ul>
+  <li><a href="http://www.westga.edu/~drocco/voice/NatLink/">NatLink For Python 2.5</a></li>
+  <li><a href="https://web.archive.org/web/20110917000900/http://sean.wenzel.net/voicerecognition/index.epl">A collection of utilities and macros for voice recognition using Dragon NaturallySpeaking® by ScanSoft®</a></li>
+</ul>
+
+<h1 id="troubleshooting">Troubleshooting</h1>
+
+<ul>
+  <li><a href="https://github.com/simianhacker/code-by-voice/issues/2">The “Cannot load compatibility module support” Error</a></li>
+  <li><a href="https://groups.yahoo.com/neo/groups/VoiceCoder/conversations/topics/8601">Error 6034</a></li>
+  <li><a href="https://github.com/synkarius/caster/issues/217#issuecomment-377290954">Troubleshooting FAQ - Dragonfly and Castor</a> - (Scroll to the bottom of the post)</li>
+</ul>
+
+<h1 id="other">Other</h1>
+
+<ul>
+  <li>
+    <p><a href="http://pydev.org/manual_adv_remote_debugger.html">Manual_adv_remote_debugger</a></p>
+  </li>
+  <li>
+    <p><a href="http://nuancedev.github.io/samples/http/python/">Python HTTP CLI</a></p>
+  </li>
+  <li>
+    <p><a href="http://ergoemacs.org/emacs/emacs_hand_pain_celebrity.html">Famous Programers with Repetitive Strain Injury</a></p>
+  </li>
+  <li>
+    <p><a href="http://zenorocha.github.io/voice-elements/">Voice Elements</a> - A couple of Web Components that can do
+amazing stuff using the Web Speech API</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/dictation-toolbox/aenea-grammars/issues/1">Use Function() vs process_recognition() and value()</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/Uberi/speech_recognition">Speech_Recognition</a> - Speech recognition module for Python, supporting several engines and APIs, online and offline</p>
+  </li>
+  <li>
+    <p><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=44266">Microsoft Visual C++ Compiler for Python 2.7</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=YRyYIIFKsdU&amp;list=PLVkfMfvD1Tblhrrr9V79sjH_wndQ4Tp9I&amp;index=15">The Eleventh HOPE (2016): Coding by Voice with Open Source Speech Recognition</a></p>
+
+    <p><strong>Archived Links</strong></p>
+  </li>
+  <li>
+    <p><a href="https://code.google.com/p/dragonfly/">Google Code - Dragonfly</a> - Depreciated Dragonfly repository</p>
+  </li>
+  <li>
+    <p><a href="https://code.google.com/p/dragonfly-modules/">Google Code - dragonfly-modules</a> - Depreciated Dragonfly repository</p>
+  </li>
+  <li>
+    <p><a href="http://pythonhosted.org/dragonfly/py-modindex.html">Pythonhosted - Dragonfly -Module Index</a> - Archived Documentation</p>
+  </li>
+  <li>
+    <p><a href="http://pythonhosted.org/dragonfly/index.html">Pythonhosted -Dragonfly</a> - Archived Documentation</p>
+  </li>
+  <li>
+    <p><a href="http://vimeo.com/9156942">Tutorial on setting Dragonfly</a> - Video outdated</p>
+  </li>
+  <li>
+    <p><a href="https://web.archive.org/web/20170609174054/http://nuance-community.custhelp.com/hives/be1ac29547/summary">Nuance Community Help</a> - Forum Deleted - Archived</p>
+  </li>
+</ul>
+
+  </div>
+
+</article>
+
+          </div>
+        </div>
+      </div>
+      <footer class="site-footer">
+  <div class="container">
+    <div class="footer left column one-half">
+      <section class="small-font">
+        Theme <a href="https://github.com/wild-flame/jekyll-simple"> Simple </a> by <a href="http://wildflame.me">wildflame</a>
+        © 2016 
+        Powered by <a href="https://github.com/jekyll/jekyll">jekyll</a>
+      </section>
+    </div>
+
+    <div class="footer right column one-half">
+      <section class="small-font">
+        
+        <a href="https://github.com/mrob95"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span></a>
+
+        
+        
+      </section>
+    </div>
+  </div>
+</footer>
+ 
+    </div>
+  </body>
+</html>
