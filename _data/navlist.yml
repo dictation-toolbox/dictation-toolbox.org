@@ -27,5 +27,5 @@ pages:
 - title: Blogs
   url: blogs.html
 
-# - title:
-#   url: .html
+- title: Articles
+  url: articles.html
