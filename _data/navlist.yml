@@ -11,3 +11,21 @@ pages:
 
 - title: Mathematics/LaTeX
   url: math.html
+
+- title: Dragon
+  url: dragon.html
+
+- title: Microphones
+  url: microphones.html
+
+- title: Forums
+  url: forums.html
+
+- title: Videos
+  url: videos.html
+
+- title: Blogs
+  url: blogs.html
+
+# - title:
+#   url: .html

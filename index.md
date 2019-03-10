@@ -2,6 +2,9 @@
 layout: page
 title: Home
 ---
+
+The aim of this page is to provide up-to-date resources relating to every aspect of controlling a computer without using a keyboard and mouse.
+
 # Contents
 
 1. [About This Page](#about)
