@@ -112,6 +112,7 @@ If you're just getting started with voice programming, I suggest reading [this a
 - [Github - whIzz2000/natlink-py-scripts](https://github.com/whIzz2000/natlink-py-scripts) - (Dec 8, 2016)
 - [Github - danzel/NatlinkVisualStudioMacros](https://github.com/danzel/NatlinkVisualStudioMacros) - (Sep 10, 2013)
 - [Github - tgrosinger/aenea-grammars](https://github.com/tgrosinger/aenea-grammars) - (Oct 3, 2015)
+- [Github - Mark Lillibridge's Vocola voice infrastructure](https://github.com/mdbridge/bit-bucket) - (Nov 2016)
 
 # Other Related Documents
 

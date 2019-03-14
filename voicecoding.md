@@ -25,3 +25,26 @@ Caster provides three key types of command:
 It is currently available on OS X and requires Dragon Dictate.
 
 {% include youtubePlayer.html id="HsodtJY0BX8" %}
+
+
+# Vocola
+[Vocola](http://vocola.net/) is a voice command language - a language for creating commands to control a computer by voice. Two versions are available: Vocola 2 works with Dragon NaturallySpeaking (DNS) and Vocola 3 works with Windows Speech Recognition (WSR) on Windows 8, 7, and Vista. While DNS and WSR handle the heavy lifting, Vocola (pronounced "vo-CO-luh") concentrates on features and ease of use. In particular, Vocola offers the following:
+
+Easy to use:
+
+* Simple, concise command syntax - most commands are one-liners
+* Easy to view and modify commands
+* Changed commands are loaded automatically
+* Large set of useful sample commands
+* Free
+
+Features:
+
+* Create commands which capture any dictated words
+* Use concise number ranges, optional words, and inline word lists
+* Specify different actions for variable words
+* Speak a continuous sequence of commands
+* Re-use work with include files and user-defined functions
+
+
+[https://docs.google.com/document/d/e/2PACX-1vSGRicRTJ2iv7rzLnwYxGnUb39usUk_5o2KPxJ5YE91qv-W_lWHD1C7S4syAHM61VAheR5lQ6hoE55W/pub](Getting started with voice coding in Vocola)
