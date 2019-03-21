@@ -9,6 +9,9 @@ pages:
 - title: Eye tracking
   url: eyetracking.html
 
+- title: Alternative mice
+  url:  mice.html
+
 - title: Mathematics/LaTeX
   url: math.html
 

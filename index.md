@@ -14,8 +14,6 @@ The aim of this page is to provide up-to-date resources relating to every aspect
 5. [Repositories](#other-dragonfly-repositories)
 6. [Other Documents](#other-related-documents)
 7. [DNS Add-ons, Open-source and Commercial](#open-source-and-commercial-dragon-add-ons)
-8. [Videos](#video)
-9. [Installation Instructions](#installation-instructions) (Dragonfly and Caster)
 10. [Caster Wiki](https://github.com/synkarius/caster/wiki)
 11. [Legacy Links](#legacy)
 12. [Troubleshooting](#troubleshooting)
@@ -23,69 +21,10 @@ The aim of this page is to provide up-to-date resources relating to every aspect
 
 # About
 
-This page is intended to serve as an index of information related to Dragon NaturallySpeaking, Dragonfly, voice programming, extending Dragon, and my own project, [Caster](https://github.com/synkarius/caster). Below, you will find a collection of links related to those subjects. Please make a pull request for corrections or adding additional resources.
+This page is intended to serve as an index of information related to Dragon NaturallySpeaking, Dragonfly, voice programming and extending Dragon. Below, you will find a collection of links related to those subjects. Please make a pull request for corrections or adding additional resources.
 
-If you're just getting started with voice programming, I suggest reading [this article](http://explosionduck.com/wp/introduction-to-voice-programming-part-two-open-source-speech-tools/) and [this FAQ](http://vocola.net/programming-by-voice-FAQ.html) to get the lay of the land.
+If you\'re just getting started with voice programming, I suggest reading [this article](http://explosionduck.com/wp/introduction-to-voice-programming-part-two-open-source-speech-tools/) and [this FAQ](http://vocola.net/programming-by-voice-FAQ.html) to get the lay of the land.
 
-# Forums, Community, Publicity
-
-​ **Community Groups**
-
-- [Caster Gitter Channel](https://gitter.im/synkarius/caster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) - Text chat room.
-
-- [Discord Channel](https://discord.gg/9eAAsCJ) - Castor/Dragonfly text or voice chat room.
-
-- [Stackoverflow for Dragonfly](http://stackoverflow.com/questions/tagged/python-dragonfly)
-
-- [Google Groups For Dragonfly](https://groups.google.com/forum/#!forum/dragonflyspeech) - Forum
-
-- [KnowBrainer - Third-Party Command Utilities](http://www.knowbrainer.com/forums/forum/categories.cfm?catid=25) - Forum
-
-- [Google groups for Comp.lang.beta](https://groups.google.com/forum/#!forum/comp.lang.beta) - Forum
-
-  **Blogs**
-
-- [HandsFreecoding](http://handsfreecoding.org/) - Techniques and software to code and control computers by voice
-
-- [Explosionduck - Open Source Speech Tools](http://explosionduck.com/wp/introduction-to-voice-programming-part-two-open-source-speech-tools/)
-
-- [Extrahop - Programming by Voice: Staying Productive without Harming Yourself](http://www.extrahop.com/post/blog/programming-by-voice-staying-productive-without-harming-yourself/)
-
-- [VoiceControl - Dragonfly](http://voicecontrol.blogspot.nl/)
-
-  **Miscellaneous**
-
-- [Arstechnica - Coding without a keystroke: The hands-free creation of a full video game](https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/)
-
-- [State of Voice Coding — 2017](https://medium.com/bambuu/state-of-voice-coding-2017-3d2ff41c5015)
-
-- [Vocola - Programming by Voice FAQ](http://vocola.net/programming-by-voice-FAQ.html)
-
-- [VoiceCode Academic Paper PDF](https://web.archive.org/web/20160617205433/http://alpacatechnologies.com/tiki-download_file.php?fileId=21)
-
-# Sources and Modules
-
-- [Github - Dragonfly](https://github.com/Danesprite/dragonfly) - (Recommended) - A Community fork of t4ngo's Dragonfly repository.
-- [Github - t4ngo/dragonfly](https://github.com/t4ngo/dragonfly) - Stale
-
-# Dragonfly and Natlink Documentation
-
-**Dragonfly**
-
-- [Dragonfly - readthedocs](http://dragonfly2.readthedocs.org/en/latest/) - (Recommended Documentation)
-
-- [t4ngo's Dragonfly - readthedocs](http://dragonfly.readthedocs.org/en/latest/) - Stale
-
-  **Natlink**
-
-- [Qh.antenna.nl - Natlink, Unimacro and Vocola ](http://qh.antenna.nl/unimacro/index.html) - (Recommended) Documentation and install instructions
-
-  **As Needed**
-
-  - [Register Natlink pyd Manually](https://www.youtube.com/watch?v=_WnMGOfHYuM)
-  - [Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package MFC Security Update](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi874yllILeAhWKxYMKHYgrDF8QFjAAegQICRAB&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fdownload%2Fdetails.aspx%3Fid%3D26999&usg=AOvVaw0cUChp6Ql2-eV0zUE9XCaC)
-
-- [Qh.antenna.nl - Implementation_and_Acceptance_of Natlink.pdf](https://web.archive.org/web/20160711183956/https://qh.antenna.nl/unimacro/implementation_and_acceptance_of_natlink.pdf)
 
 # Other Dragonfly Repositories
 
@@ -154,30 +93,6 @@ If you're just getting started with voice programming, I suggest reading [this a
 
 - [Speech Productivity](http://www.speechproductivity.eu/)
 
-# Video
-
-**Updated** - 10/13/2018
-
-- [Tavis Rudd - Pycon Talk](http://www.youtube.com/watch?v=8SkdfdXWYaI) - Using Python to Code by Voice - (Mar 20, 2013)
-- [Tavis Rudd - 5 programming languages in 5 mins, by Voice (Polyglot Conf)](https://www.youtube.com/watch?v=qXvbQQV1ydo) - (Apr 15, 2013)
-  - [Some links related to Tavis Rudd voice coding talk at #pycon](https://gist.github.com/tavisrudd/5226505)
-- [Explanation of continuous command recognition by Twizzybiz](https://www.youtube.com/watch?v=g3c5H7sAbBQ) - (Apr 9, 2009)
-- [A voice programmer](http://www.youtube.com/watch?v=LVAO8DXUnRI) - Speech Recognition used for Programming and Software development Demonstration. - (Dec 31, 2011)
-- [Voice Coding Demonstration](https://www.youtube.com/watch?v=ZKIPVtmL5RY) - (Jan 15, 2017)
-- [Demo of Voice Coding + Art](https://www.youtube.com/watch?v=hGPNs5C1Lp0) - (Apr 16, 2018)
-- [Controlling computer and programming by voice (Voice Coding)](https://www.youtube.com/watch?v=-UVCN8L4J0Y) - (May 13, 2018)
-- [Multiple chained speech recognition commands in dragonfly -- low latency for fluid use](https://www.youtube.com/watch?v=O9mkQsXA2Ok) - (Mar 11, 2015)
-- [Short demo showing how to install the "Click by Voice" extension for Chrome](https://www.youtube.com/watch?v=6qrjuTCX6Rw) - (Jul 21, 2017)
-
-# Installation Instructions
-
-**Updated** - 10/13/2018
-
-- [Instructions for Dragonfly and Castor](https://github.com/synkarius/caster/issues/217#issuecomment-377290954) (Recommended)
-- [Install Vid (Caster)](http://explosionduck.com/caster/install) - Slightly outdated
-- [Install Vid (Dragonfly)](http://explosionduck.com/caster/install/dragonfly.html) - Slightly outdated
-- [Installing Natlink Vocola and Dragonfly](https://www.youtube.com/watch?v=yVEbAcxEPWY) - t4ngo Dragonfly
-
 # Legacy
 
 - [NatLink For Python 2.5](http://www.westga.edu/~drocco/voice/NatLink/)
@@ -210,9 +125,9 @@ If you're just getting started with voice programming, I suggest reading [this a
 
   **Archived Links**
 
-- [Google Code - Dragonfly](https://code.google.com/p/dragonfly/) - Depreciated Dragonfly repository
+- [Google Code - Dragonfly](https://code.google.com/p/dragonfly/) - Deprecated Dragonfly repository
 
-- [Google Code - dragonfly-modules](https://code.google.com/p/dragonfly-modules/) - Depreciated Dragonfly repository
+- [Google Code - dragonfly-modules](https://code.google.com/p/dragonfly-modules/) - Deprecated Dragonfly repository
 
 - [Pythonhosted - Dragonfly -Module Index](http://pythonhosted.org/dragonfly/py-modindex.html) - Archived Documentation
 
