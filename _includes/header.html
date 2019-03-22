@@ -17,8 +17,11 @@
     <div class="site-nav">
       <nav>
         <ul class="page-link">
-          {% for item in site.data.navlist.pages %}
-            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% for group in site.data.navlist %}
+            <li><b>{{ group.section }}</b></li>
+            {% for item in group.links %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
           {% endfor %}
         </ul>
       </nav>
