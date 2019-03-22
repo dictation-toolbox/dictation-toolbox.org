@@ -20,6 +20,12 @@
     - title: Natlink/Vocola
       url: natlink.html
 
+    - title: Dragonfly
+      url: dragonfly.html
+
+    - title: Commercial add-ons
+      url: addons.html
+
 - section: Links
   links:
     - title: Forums
