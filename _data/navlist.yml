@@ -12,7 +12,7 @@
     - title: Mathematics/LaTeX
       url: math.html
 
-- section: Products
+- section: Tools
   links:
     - title: Dragon
       url: dragon.html
@@ -23,8 +23,16 @@
     - title: Dragonfly
       url: dragonfly.html
 
+    - title: Caster
+      url: caster.html
+
+    - title: Aenea
+      url: aenea.html
+
     - title: Commercial add-ons
       url: addons.html
+
+- section: User setups
 
 - section: Links
   links:
