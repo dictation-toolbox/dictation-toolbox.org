@@ -18,6 +18,8 @@ include: ['_pages']
 collections:
   pages:
     output: true
+    permalink: /:path
+
 
 # Build settings
 markdown: kramdown
