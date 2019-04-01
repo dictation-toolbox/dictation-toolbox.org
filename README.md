@@ -1,7 +1,7 @@
 
 # The dictation index
 
-[link](https://mrob95.github.io/dictation-index/)
+[link](https://dictation-toolbox.github.io/dictation-toolbox.org/)
 
 This site is intended as a more visible and complete replacement for caster's (impressively thorough) [voice index](https://github.com/dictation-toolbox/caster/blob/develop/castervoice/doc/readthedocs/Voice_Index.md). The aim is to serve as a useful first point of contact for anybody interested in non-traditional ways of controlling their computer. Content should be thorough and fair, but does not have to feign neutrality.
 
