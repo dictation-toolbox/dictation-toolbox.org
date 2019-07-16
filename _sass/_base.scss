@@ -32,7 +32,7 @@
 }
 
 .box {
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
 /* Grid
@@ -140,7 +140,7 @@ body {
   font-weight: 400;
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
-  font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  font-family: -apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB",sans-serif;
   color: #222; }
 
 
@@ -313,9 +313,9 @@ label > .label-body {
 
 
 /* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 ul {
-  list-style: circle inside; 
+  list-style: circle inside;
 }
 ol {
   list-style: decimal inside; }
@@ -366,7 +366,7 @@ td:last-child {
 
 
 /* Spacing
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 button,
 .button {
   margin-bottom: 1rem; }
@@ -428,8 +428,8 @@ hr {
   display: table;
   clear: both; }
 
-  
-/* Images 
+
+/* Images
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 img {
@@ -437,7 +437,7 @@ img {
     vertical-align: middle;
 }
 
-/* blockquote */ 
+/* blockquote */
 
 blockquote {
   margin: 1.5rem 0;
@@ -447,4 +447,4 @@ blockquote {
   line-height: 1.8rem;
   border-left: 3px solid #D0E5F2;
   font-size: 1.3rem;
-} 
+}
