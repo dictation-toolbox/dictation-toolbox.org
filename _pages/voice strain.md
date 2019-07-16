@@ -28,3 +28,10 @@ I have had problems with my voice too. They seem to have improved.
 Coffee as much as I love it dries out my throat. I still drink it sometimes but if I'm having a bad day I avoid it.
 * I still have a terrible time with dragon getting into fits of not understanding me and repeating myself a dozen times. I don't know what else to do about it. I have a good mic with USB sound card and have the accuracy slider set to Max - I followed the know brainer instructions for dragon configuration. Maybe it has something to do with lots of active processes or something. Usually restarting my computer gives me a few good hours. Outlook seems to cause hangs and delays as well - I think dragon must be calling accessibility apis that are slow with too many screen objects since it's supported for select and say. Sometimes normal mode ceases to work and i have to use commands to type in outlook. Would be curious if others have advice on this issue. Dragon is a pleasure to use when it works but gets me cursing daily.
 * Silent (acid) reflux at night was contributing. Sleeping with my mattress on an incline helped as did not eating 3 hours before bed.
+
+# Jacob Eggleston
+A few things I can add add that have helped me:
+
+* In addition to coffee, I also pretty much avoid any kind of sodas or sugary drinks, and mostly just drink water. I find that for me, personally, things that are sugary seemed either dry out my throat or make me feel like I need to clear my throat, which brings me to the next point.
+* Clearing your throat is hard on your vocal cords. After I learned this, I started becoming aware of how often I tend to do it.
+* I find that, for me, any kind of stress or tension tends to manifest in my voice. When I'm under a lot of stress or get tense, my voice tends to get strained a lot more quickly.
