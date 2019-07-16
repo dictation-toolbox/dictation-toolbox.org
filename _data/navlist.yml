@@ -34,6 +34,11 @@
 
 - section: User setups
 
+- section: Tips
+  links:
+    - title: Voice strain
+      url: voice strain.html
+
 - section: Links
   links:
     - title: Forums
