@@ -3,7 +3,7 @@ layout: page
 title: Voice coding
 ---
 # Caster
-[Caster](http://dictation-toolbox.github.io/caster/) is a collection of tools aimed at enabling programming and accessibility entirely by voice built upon Natlink and the [Dragonfly](https://github.com/dictation-toolbox/dragonfly) API. It is available on Windows and requires Dragon.
+[Caster](https://caster.readthedocs.io/en/latest/) is a collection of tools aimed at enabling programming and accessibility entirely by voice built upon Natlink and the [Dragonfly](https://github.com/dictation-toolbox/dragonfly) API. It is available on Windows and requires Dragon.
 
 Caster provides three key types of command:
 * Universal navigation and editing - These commands are active all the time, and provide input commands for letters, numbers and punctuation, as well as the ability to easily manipulate windows and text. 
@@ -20,7 +20,7 @@ Caster provides three key types of command:
     -  `open file` -  `open('filename', 'r') as f:`
 
 # Talon
-[Talon](talonvoice.com) aims to bring programming, realtime video gaming, command line, and full desktop computer proficiency to people who have limited or no use of their hands, and vastly improve productivity and wow-factor of anyone who can use a computer.
+[Talon](https://talonvoice.com/) aims to bring programming, realtime video gaming, command line, and full desktop computer proficiency to people who have limited or no use of their hands, and vastly improve productivity and wow-factor of anyone who can use a computer.
 
 It is currently available on OS X and requires Dragon Dictate.
 
