@@ -17,13 +17,13 @@ title: Open Source and Commercial Dragon Addons
 
   **Commercial**
 
-- [Voicecode.io](http://voicecode.io)
+- [Voicecode.io](https://www.voicecode.io/)
 
-- [VoiceComputer for Dragon](http://www.voicecomputer.com)
+- [VoiceComputer for Dragon](https://voicecomputer.com/)
 
 - [PCByVoice SpeechStart+ ](http://www.pcbyvoice.com/shop/pcbyvoice-speechstart-plus/)
 
-- [KnowBrainer Command Utility](http://www.knowbrainer.com)
+- [KnowBrainer Command Utility](https://www.knowbrainer.com/)
 
 - [RedStartSystems](http://redstartsystems.com)
 
