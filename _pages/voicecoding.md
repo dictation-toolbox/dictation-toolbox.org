@@ -19,6 +19,13 @@ Caster provides three key types of command:
     - `print to console` - `print()`
     -  `open file` -  `open('filename', 'r') as f:`
 
+
+# Numen
+[Numen](https://numenvoice.com) is Free Software voice control that gives people with limited use of their hands full control of their Linux machine. The philosophy is to keep it simple with phrases that work universally.
+
+It's for people who just want a simple keyboard alternative so they can be productive with standard keyboard-focused tools like Vim, tiling window managers and the command line. It leverages the open source [Vosk speech recognition toolkit](https://alphacephei.com/vosk).
+
+
 # Talon
 [Talon](talonvoice.com) aims to bring programming, realtime video gaming, command line, and full desktop computer proficiency to people who have limited or no use of their hands, and vastly improve productivity and wow-factor of anyone who can use a computer.
 

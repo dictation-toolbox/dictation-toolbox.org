@@ -3,6 +3,8 @@ layout: page
 title: Videos
 ---
 
+- [Numen Channel](https://peertube.tv/c/numen/videos)
+
 - [Tavis Rudd - Pycon Talk](http://www.youtube.com/watch?v=8SkdfdXWYaI) - Using Python to Code by Voice - (Mar 20, 2013)
 
 - [Tavis Rudd - 5 programming languages in 5 mins, by Voice (Polyglot Conf)](https://www.youtube.com/watch?v=qXvbQQV1ydo) - (Apr 15, 2013)
