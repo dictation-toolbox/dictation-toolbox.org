@@ -9,6 +9,8 @@ title: Forums
 
 - [Dragonfly Gitter Channel](https://gitter.im/sphinx-dragonfly/Lobby) - Text chat room.
 
+- [Numen Matrix Chat](https://matrix.to/#/%23numen:matrix.org) - Numen text chat room.
+
 - [Discord Channel](https://discord.gg/9eAAsCJ) - Castor/Dragonfly text or voice chat room.
 
 - [Stackoverflow for Dragonfly](http://stackoverflow.com/questions/tagged/python-dragonfly)
